@@ -2,6 +2,7 @@
   display: inline-block;
   cursor: pointer;
   border: 0;
+  padding: 12px 24px;
   border-radius: 3em;
   font-weight: 700;
   line-height: 1;
