@@ -14,5 +14,6 @@
 [PNPM](https://pnpm.io/pt/installation) |
 [Turbo](https://turbo.build/repo/docs) |
 [Storybook](https://storybook.js.org/docs) | 
+[Styled Components](https://styled-components.com/docs/basics#installation) |
 [Figma](https://www.figma.com/design/ejjWxLEGHQx28zflduqdAt/React%3A-Turborepo%2C-componentes-e-storybook-%7C-Alfabit-(Community)?node-id=143-3228&p=f&t=QQfJtiAkycw1kJPG-0)
 
